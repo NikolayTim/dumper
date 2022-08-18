@@ -1,0 +1,16 @@
+{
+    "name": "nikolaytim/dumper",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Nikolaytim\\Dumper\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Nikolai Timakov",
+            "email": "ntimakov@mail.ru"
+        }
+    ],
+    "require": {}
+}
