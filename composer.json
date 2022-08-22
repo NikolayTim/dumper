@@ -12,5 +12,7 @@
             "email": "ntimakov@mail.ru"
         }
     ],
-    "require": {}
+    "require": {
+        "php": ">=4.0"
+    }
 }
